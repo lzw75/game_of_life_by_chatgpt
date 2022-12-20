@@ -1,4 +1,4 @@
-# Game of Life Writte by ChatGPT
+# Game of Life Written by ChatGPT
 
 Almost the entire code (certainly the Javascript section) was written by ChatGPT.
 
